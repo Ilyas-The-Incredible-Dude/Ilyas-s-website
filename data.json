@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "profil": {
+    "prenom": "Ilyas",
+    "nomComplet": "Ilyas",
+    "role": "Développeur & inventeur",
+    "accroche": "Je construis des systèmes qui voient, comprennent et décident en temps réel.",
+    "bio": "Développeur full-stack autodidacte, je passe le plus clair de mon temps entre le code et le prototypage. Mon terrain de jeu : la vision par ordinateur, les interfaces temps réel et tout ce qui transforme un flux de données brut en quelque chose d'utile. OmniSight est né de cette obsession.",
+    "localisation": "Sétif, Algérie",
+    "disponible": true,
+    "stack": ["JavaScript", "Python", "React", "Node.js", "OpenCV", "WebGL", "PostgreSQL", "Docker"],
+    "chiffres": [
+      { "valeur": "6", "label": "années à coder" },
+      { "valeur": "24", "label": "projets livrés" },
+      { "valeur": "1", "label": "invention en cours" }
+    ],
+    "liens": [
+      { "label": "GitHub", "url": "https://github.com" },
+      { "label": "LinkedIn", "url": "https://linkedin.com" },
+      { "label": "Email", "url": "mailto:ilyas@example.com" }
+    ]
+  },
+  "inventions": [
+    {
+      "id": "omnisight",
+      "nom": "OmniSight",
+      "tagline": "Une couche de perception unique pour n'importe quel flux vidéo.",
+      "description": "OmniSight agrège plusieurs sources vidéo en une seule scène cohérente : détection, suivi et ré-identification des objets d'une caméra à l'autre, avec une latence tenue sous les 40 ms. L'idée n'est pas de multiplier les écrans, mais de produire une seule lecture du réel — lisible par un humain comme par une machine.",
+      "statut": "En développement",
+      "progression": 62,
+      "annee": "2026",
+      "tags": ["Vision par ordinateur", "Temps réel", "Edge computing"],
+      "vedette": true
+    },
+    {
+      "id": "pulse-grid",
+      "nom": "Pulse Grid",
+      "tagline": "Tableau de bord temps réel pour capteurs distribués.",
+      "description": "Un moteur de visualisation qui encaisse des milliers d'événements par seconde sans faire tomber le navigateur. Rendu sur canvas, agrégation côté client, historique compressé en mémoire.",
+      "statut": "Prototype",
+      "progression": 35,
+      "annee": "2025",
+      "tags": ["WebGL", "Données", "Performance"],
+      "vedette": false
+    },
+    {
+      "id": "atlas-cli",
+      "nom": "Atlas CLI",
+      "tagline": "Générateur d'architecture pour projets full-stack.",
+      "description": "Un outil en ligne de commande qui pose la structure d'un projet complet — API, base, front, CI — à partir d'un simple schéma décrit en YAML.",
+      "statut": "Publié",
+      "progression": 100,
+      "annee": "2024",
+      "tags": ["Node.js", "Outillage", "Open source"],
+      "vedette": false
+    }
+  ],
+  "admin": {
+    "motDePasse": "omnisight",
+    "indice": "Le nom de l'invention principale, en minuscules."
+  }
+}
