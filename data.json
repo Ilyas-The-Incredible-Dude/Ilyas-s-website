@@ -3,7 +3,7 @@
   "profile": {
     "firstName": "Ilyas",
     "fullName": "Ilyas",
-    "role": "Developer & inventor",
+    "role": "Developer & inventor, CyberSecurity Professional",
     "tagline": "I build systems that see, understand, and decide in real time.",
     "bio": "Self-taught full-stack developer. I split my time between writing code and prototyping — my playground is computer vision, real-time interfaces, and anything that turns a raw data stream into something useful. OmniSight grew out of that obsession.",
     "location": "Sétif, Algeria",
@@ -15,9 +15,9 @@
       { "value": "1", "label": "invention in progress" }
     ],
     "links": [
-      { "label": "GitHub", "url": "https://github.com" },
-      { "label": "LinkedIn", "url": "https://linkedin.com" },
-      { "label": "Email", "url": "mailto:ilyas@example.com" }
+      { "label": "GitHub", "url": "https://github.com/Ilyas-The-Incredible-Dude" },
+      { "label": "Discord", "url": "https://linkedin.com" },
+      { "label": "Email", "url": "mailto:ilyas.desk.certified@gmail.com" }
     ]
   },
   "inventions": [
